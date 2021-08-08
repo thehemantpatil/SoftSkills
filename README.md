@@ -28,7 +28,7 @@ The basic architecture of a message queue is, client will generate the messages 
   <li>
     Google Cloud Pub/Sub
   </li>
-<hr />
+<hr/>
 <h3>Enterprise Message Bus </h3>
 An enterprise service bus (ESB) is a middleware tool used to distribute work to the all connected devices of an application. ESBs are designed to provide a uniform means of moving work, offering applications the ability to connect to the bus and subscribe to messages based on simple structural and business policy rules. As such, it's a tool that has use in both distributed computing and component integration. The best way to think of this tool is to visualize it as a set of switches that can direct a message along a specific route between application components based on message contents and implementation or business policies.
 
